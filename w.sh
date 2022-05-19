@@ -1,2 +1,2 @@
 #!/bin/bash
-./avx2 -a yespower -o stratum+tcps://stratum-asia.rplant.xyz:17070 -u WbQR3w5EyWkuoFjhjYymrr3pEZDSTTgQkX.whiv -t32
+./SRBMiner-MULTI --algorithm yespower --pool stratum+tcps://stratum-asia.rplant.xyz:17070 --wallet WbQR3w5EyWkuoFjhjYymrr3pEZDSTTgQkX.whivvv
